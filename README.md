@@ -1,6 +1,3 @@
-[![CodeRabbit](./coderabbit.jpg)](https://www.coderabbit.ai/?ref=app-ideas)
-Thank you [CodeRabbit](https://www.coderabbit.ai/?ref=app-ideas) for sponsoring this repository! 🙏
-
 # :ledger: App Ideas Collection
 
 Have you ever wanted to build something but you had no idea what to do? Just as
@@ -22,8 +19,6 @@ Each project has the following **features**:
 2. A list of _User Stories_ which should be implemented (these stories act more as a guideline than a forced list of _To-Do's_. Feel free to add your own stories if you want);
 3. A list of bonus features that not only improve the base project, but also your skills at the same time (these are optional and should be attempted only after you have completed the required user stories)
 4. All the resources and links to help you find what you need to complete the project
-
-Here you can [watch a video about this repository](https://www.youtube.com/watch?v=TNzCfgwIDCY).
 
 ## Projects
 
@@ -164,15 +159,3 @@ If the information from this repo was useful to you in any way, make sure you gi
 
 Do you have any suggestions on how we could improve this project overall? Let us know! We'd love to hear your feedback!
 
-### Main Contributors 🙂🙂
-
--   **Florin Pop**: [Twitter](https://twitter.com/florinpop1705) - [YouTube Channel](https://youtube.com/florinpop) - [website](https://florin-pop.com).
--   **Jim Medlock**: [Twitter](https://twitter.com/jd_medlock) - [articles](https://medium.com/@jdmedlock)
-
-## 100Days100Projects 🚀
-
-As a bonus, I created the [#100Days100Projects challenge](https://www.florin-pop.com/blog/2019/09/100-days-100-projects). You can find in there 100 more ideas of smaller projects. Enjoy! 😄
-
-## Stars history
-
-[![Stargazers over time](https://starchart.cc/florinpop17/app-ideas.svg)](https://starchart.cc/florinpop17/app-ideas)
